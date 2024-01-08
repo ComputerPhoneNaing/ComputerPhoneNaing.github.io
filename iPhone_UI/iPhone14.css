@@ -1,0 +1,75 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: lato;
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* flashShip starts from here  */
+.flashShipSec {
+    background: url(../images/iPhone14ProMax\ copy.jpeg) no-repeat center;
+}
+.flashShip {
+    text-align: center;
+    height: 1000px;
+    padding-top: 270px;
+    color: white;
+}
+.flashShip div {
+    border: 1px solid white;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+}
+.flashShip h2 {
+    font-size: 50px;
+}
+.flashShip h3 {
+    font-size: 30px;
+}
+/* flashShip ends here  */
+
+/* SOC starts from here  */
+.Soc img {
+    width: 100%;
+}
+.Soc div {
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-size: 40px;
+    padding-bottom: 50px;
+}
+/* SOC ends here  */
+
+/* always on display starts from here  */
+.alwaysOnDisplay img {
+    width: 100%;
+}
+.alwaysOnDisplay div {
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 15px;
+    background-color: #f5f5f7;
+}
+/* always on display ends here  */
+
+/* camera starts from here */
+.camera img {
+    width: 100%;
+    object-fit: cover;
+}
+.camera {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding-bottom: 20px;
+}
+/* camera ends here  */
